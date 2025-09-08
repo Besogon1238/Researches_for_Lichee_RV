@@ -2,3 +2,4 @@
 regular-jeos-systemd-latest-riscv64.tar.xz
 kernel-source-6.16.tar
 /kernel-source-6.16/
+/build_kernel_directory/
